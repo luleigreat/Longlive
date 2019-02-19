@@ -18,6 +18,8 @@ Welcome to Longlive's documentation!
 
    whatis
    whatsnew
+   java
+   hello
 
 .. note:: If you have questions not addressed by this documentation, or run into
           issues with any of the tutorials, please visit the :doc:`questions`
